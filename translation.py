@@ -2,13 +2,13 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Asuran Hotstar Download Bot!
+This is a Mourya Hotstar Download Bot!
 
 <b>Please send me any Free Hotstar link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @SerialCoIng
+Movies Bot : @Mouryac_bot
 """
 
     HELP_USER = """Hai I'am a Hotstar Downloader bot..
@@ -21,7 +21,7 @@ Support Group : @SerialCoIng
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @SerialCoIn
+Movies Bot : @Mouryac_bot
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
